@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+tensorflow
+tensorflow_hub
+opencv-python-headless
+python-multipart
